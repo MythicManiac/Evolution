@@ -1,0 +1,6 @@
+E:\C#\Evolution\Evolution\bin\Debug\Evolution.exe.config
+E:\C#\Evolution\Evolution\obj\Debug\Evolution.csprojResolveAssemblyReference.cache
+E:\C#\Evolution\Evolution\bin\Debug\Evolution.exe
+E:\C#\Evolution\Evolution\bin\Debug\Evolution.pdb
+E:\C#\Evolution\Evolution\obj\Debug\Evolution.exe
+E:\C#\Evolution\Evolution\obj\Debug\Evolution.pdb
